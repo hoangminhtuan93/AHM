@@ -1,0 +1,66 @@
+c:\users\tuanhm\documents\visual studio 2015\Projects\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.csprojResolveAssemblyReference.cache
+c:\users\tuanhm\documents\visual studio 2015\Projects\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.frmMain.resources
+c:\users\tuanhm\documents\visual studio 2015\Projects\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.frmType.resources
+c:\users\tuanhm\documents\visual studio 2015\Projects\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.Properties.Resources.resources
+c:\users\tuanhm\documents\visual studio 2015\Projects\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.csproj.GenerateResource.Cache
+c:\users\tuanhm\documents\visual studio 2015\Projects\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.frmDaily.resources
+C:\Users\tuanhm\Documents\Visual Studio 2015\Projects\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.frmGoods.resources
+C:\Users\tuanhm\Documents\Visual Studio 2015\Projects\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.frmCustomer.resources
+C:\Users\tuanhm\Documents\Visual Studio 2015\Projects\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.frmRevenue.resources
+C:\Users\tuanhm\Documents\Visual Studio 2015\Projects\AnhHuyMobile\AnhHuyMobile\bin\Debug\Anh Huy Mobile.exe.config
+C:\Users\tuanhm\Documents\Visual Studio 2015\Projects\AnhHuyMobile\AnhHuyMobile\bin\Debug\Anh Huy Mobile.exe
+C:\Users\tuanhm\Documents\Visual Studio 2015\Projects\AnhHuyMobile\AnhHuyMobile\bin\Debug\Anh Huy Mobile.pdb
+C:\Users\tuanhm\Documents\Visual Studio 2015\Projects\AnhHuyMobile\AnhHuyMobile\obj\Debug\Anh Huy Mobile.exe
+C:\Users\tuanhm\Documents\Visual Studio 2015\Projects\AnhHuyMobile\AnhHuyMobile\obj\Debug\Anh Huy Mobile.pdb
+C:\Users\Huy\Downloads\AH\AH\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.csprojAssemblyReference.cache
+C:\Users\Huy\Downloads\AH\AH\AnhHuyMobile\AnhHuyMobile\obj\Debug\Anh Huy Mobile.exe
+C:\Users\Huy\Downloads\AH\AH\AnhHuyMobile\AnhHuyMobile\obj\Debug\Anh Huy Mobile.pdb
+C:\Users\Huy\Desktop\AnhHuyMobile\AnhHuyMobile\bin\Debug\Anh Huy Mobile.exe.config
+C:\Users\Huy\Desktop\AnhHuyMobile\AnhHuyMobile\bin\Debug\Anh Huy Mobile.exe
+C:\Users\Huy\Desktop\AnhHuyMobile\AnhHuyMobile\bin\Debug\Anh Huy Mobile.pdb
+C:\Users\Huy\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.csprojAssemblyReference.cache
+C:\Users\Huy\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.frmCustomer.resources
+C:\Users\Huy\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.frmDaily.resources
+C:\Users\Huy\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.frmGoods.resources
+C:\Users\Huy\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.frmMain.resources
+C:\Users\Huy\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.frmRevenue.resources
+C:\Users\Huy\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.frmType.resources
+C:\Users\Huy\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.Properties.Resources.resources
+C:\Users\Huy\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.csproj.GenerateResource.cache
+C:\Users\Huy\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.csproj.CoreCompileInputs.cache
+C:\Users\Huy\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\Anh Huy Mobile.exe
+C:\Users\Huy\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\Anh Huy Mobile.pdb
+C:\Users\Huy\OneDrive\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.csprojAssemblyReference.cache
+C:\Users\Huy\OneDrive\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.frmCustomer.resources
+C:\Users\Huy\OneDrive\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.frmDaily.resources
+C:\Users\Huy\OneDrive\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.frmGoods.resources
+C:\Users\Huy\OneDrive\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.frmMain.resources
+C:\Users\Huy\OneDrive\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.frmRevenue.resources
+C:\Users\Huy\OneDrive\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.frmType.resources
+C:\Users\Huy\OneDrive\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.Properties.Resources.resources
+C:\Users\Huy\OneDrive\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.csproj.GenerateResource.cache
+C:\Users\Huy\OneDrive\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.csproj.CoreCompileInputs.cache
+C:\Users\Huy\OneDrive\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\Anh Huy Mobile.exe
+C:\Users\Huy\OneDrive\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\Anh Huy Mobile.pdb
+C:\Users\Huy\OneDrive\Desktop\AnhHuyMobile\AnhHuyMobile\bin\Debug\Anh Huy Mobile.exe.config
+C:\Users\Huy\OneDrive\Desktop\AnhHuyMobile\AnhHuyMobile\bin\Debug\Anh Huy Mobile.exe
+C:\Users\Huy\OneDrive\Desktop\AnhHuyMobile\AnhHuyMobile\bin\Debug\Anh Huy Mobile.pdb
+C:\Users\Huy\OneDrive\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.frmFindType.resources
+C:\Users\Huy\OneDrive\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.frm_login.resources
+C:\Users\Minh Tuan\OneDrive\Desktop\AnhHuyMobile\AnhHuyMobile\bin\Debug\Anh Huy Mobile.exe.config
+C:\Users\Minh Tuan\OneDrive\Desktop\AnhHuyMobile\AnhHuyMobile\bin\Debug\Anh Huy Mobile.exe
+C:\Users\Minh Tuan\OneDrive\Desktop\AnhHuyMobile\AnhHuyMobile\bin\Debug\Anh Huy Mobile.pdb
+C:\Users\Minh Tuan\OneDrive\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.csprojAssemblyReference.cache
+C:\Users\Minh Tuan\OneDrive\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.frmCustomer.resources
+C:\Users\Minh Tuan\OneDrive\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.frmDaily.resources
+C:\Users\Minh Tuan\OneDrive\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.frmFindType.resources
+C:\Users\Minh Tuan\OneDrive\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.frmGoods.resources
+C:\Users\Minh Tuan\OneDrive\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.frmMain.resources
+C:\Users\Minh Tuan\OneDrive\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.frmRevenue.resources
+C:\Users\Minh Tuan\OneDrive\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.frmType.resources
+C:\Users\Minh Tuan\OneDrive\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.frm_login.resources
+C:\Users\Minh Tuan\OneDrive\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.Properties.Resources.resources
+C:\Users\Minh Tuan\OneDrive\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.csproj.GenerateResource.cache
+C:\Users\Minh Tuan\OneDrive\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\AnhHuyMobile.csproj.CoreCompileInputs.cache
+C:\Users\Minh Tuan\OneDrive\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\Anh Huy Mobile.exe
+C:\Users\Minh Tuan\OneDrive\Desktop\AnhHuyMobile\AnhHuyMobile\obj\Debug\Anh Huy Mobile.pdb

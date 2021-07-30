@@ -1,0 +1,14 @@
+create PROCEDURE [dbo].[TM_SALE_SelectBySUM_in]
+@DAT_DATE date
+AS
+  select  SUM([CHR_MONEY_IN]) as SUM_DAY from [AHM].[dbo].[TM_SALE]
+  where DAT_DATE = @DAT_DATE
+
+create PROCEDURE [dbo].[TM_SALE_SelectBySUM_get]
+@DAT_DATE date
+AS
+ select ((select  SUM([CHR_MONEY]) as SUM_DAY from [AHM].[dbo].[TM_SALE]
+  where DAT_DATE = @DAT_DATE)
+  -
+  (select  SUM([CHR_MONEY_IN]) as SUM_DAY from [AHM].[dbo].[TM_SALE]
+  where DAT_DATE = @DAT_DATE))
