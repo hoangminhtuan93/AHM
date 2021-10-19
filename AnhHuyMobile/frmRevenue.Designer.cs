@@ -33,22 +33,31 @@
             this.lbl_Sum = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.DAT_DATE = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.CHR_NAME = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.CHR_MONEY = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.CHR_CUSTOMER = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.CHR_CUS_PHONE = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.CHR_TYPE = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.dtp_to = new System.Windows.Forms.DateTimePicker();
             this.dtp_from = new System.Windows.Forms.DateTimePicker();
+            this.lbl_sum_get = new System.Windows.Forms.Label();
+            this.lbl_sum_in = new System.Windows.Forms.Label();
+            this.label21 = new System.Windows.Forms.Label();
+            this.label20 = new System.Windows.Forms.Label();
+            this.DAT_DATE = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.CHR_NAME = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.CHR_MONEY_IN = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.CHR_MONEY = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.CHR_CUSTOMER = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.CHR_CUS_PHONE = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.CHR_TYPE = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
             // groupBox1
             // 
+            this.groupBox1.Controls.Add(this.lbl_sum_get);
+            this.groupBox1.Controls.Add(this.lbl_sum_in);
+            this.groupBox1.Controls.Add(this.label21);
+            this.groupBox1.Controls.Add(this.label20);
             this.groupBox1.Controls.Add(this.lbl_Sum);
             this.groupBox1.Controls.Add(this.label5);
             this.groupBox1.Controls.Add(this.dataGridView1);
@@ -67,18 +76,20 @@
             // lbl_Sum
             // 
             this.lbl_Sum.AutoSize = true;
-            this.lbl_Sum.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lbl_Sum.Location = new System.Drawing.Point(412, 52);
+            this.lbl_Sum.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold);
+            this.lbl_Sum.Location = new System.Drawing.Point(491, 16);
             this.lbl_Sum.Name = "lbl_Sum";
-            this.lbl_Sum.Size = new System.Drawing.Size(0, 20);
+            this.lbl_Sum.Size = new System.Drawing.Size(21, 24);
             this.lbl_Sum.TabIndex = 15;
+            this.lbl_Sum.Text = "0";
             // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(297, 57);
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.label5.Location = new System.Drawing.Point(304, 16);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(86, 13);
+            this.label5.Size = new System.Drawing.Size(125, 20);
             this.label5.TabIndex = 14;
             this.label5.Text = "Tổng doanh thu:";
             // 
@@ -94,6 +105,7 @@
             this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.DAT_DATE,
             this.CHR_NAME,
+            this.CHR_MONEY_IN,
             this.CHR_MONEY,
             this.CHR_CUSTOMER,
             this.CHR_CUS_PHONE,
@@ -102,50 +114,6 @@
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(852, 419);
             this.dataGridView1.TabIndex = 4;
-            // 
-            // DAT_DATE
-            // 
-            this.DAT_DATE.DataPropertyName = "DAT_DATE";
-            this.DAT_DATE.HeaderText = "Ngày";
-            this.DAT_DATE.Name = "DAT_DATE";
-            this.DAT_DATE.Width = 57;
-            // 
-            // CHR_NAME
-            // 
-            this.CHR_NAME.DataPropertyName = "CHR_NAME";
-            this.CHR_NAME.HeaderText = "Tên hàng (dịch vụ)";
-            this.CHR_NAME.Name = "CHR_NAME";
-            this.CHR_NAME.Width = 98;
-            // 
-            // CHR_MONEY
-            // 
-            this.CHR_MONEY.DataPropertyName = "CHR_MONEY";
-            dataGridViewCellStyle1.Format = "C0";
-            this.CHR_MONEY.DefaultCellStyle = dataGridViewCellStyle1;
-            this.CHR_MONEY.HeaderText = "Giá tiền";
-            this.CHR_MONEY.Name = "CHR_MONEY";
-            this.CHR_MONEY.Width = 63;
-            // 
-            // CHR_CUSTOMER
-            // 
-            this.CHR_CUSTOMER.DataPropertyName = "CHR_CUSTOMER";
-            this.CHR_CUSTOMER.HeaderText = "Khách hàng";
-            this.CHR_CUSTOMER.Name = "CHR_CUSTOMER";
-            this.CHR_CUSTOMER.Width = 83;
-            // 
-            // CHR_CUS_PHONE
-            // 
-            this.CHR_CUS_PHONE.DataPropertyName = "CHR_CUS_PHONE";
-            this.CHR_CUS_PHONE.HeaderText = "SĐT";
-            this.CHR_CUS_PHONE.Name = "CHR_CUS_PHONE";
-            this.CHR_CUS_PHONE.Width = 54;
-            // 
-            // CHR_TYPE
-            // 
-            this.CHR_TYPE.DataPropertyName = "CHR_TYPE";
-            this.CHR_TYPE.HeaderText = "Loại hàng";
-            this.CHR_TYPE.Name = "CHR_TYPE";
-            this.CHR_TYPE.Width = 73;
             // 
             // label2
             // 
@@ -185,6 +153,97 @@
             this.dtp_from.TabIndex = 0;
             this.dtp_from.ValueChanged += new System.EventHandler(this.dtp_from_ValueChanged);
             // 
+            // lbl_sum_get
+            // 
+            this.lbl_sum_get.AutoSize = true;
+            this.lbl_sum_get.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_sum_get.Location = new System.Drawing.Point(491, 77);
+            this.lbl_sum_get.Name = "lbl_sum_get";
+            this.lbl_sum_get.Size = new System.Drawing.Size(21, 24);
+            this.lbl_sum_get.TabIndex = 18;
+            this.lbl_sum_get.Text = "0";
+            // 
+            // lbl_sum_in
+            // 
+            this.lbl_sum_in.AutoSize = true;
+            this.lbl_sum_in.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lbl_sum_in.Location = new System.Drawing.Point(491, 48);
+            this.lbl_sum_in.Name = "lbl_sum_in";
+            this.lbl_sum_in.Size = new System.Drawing.Size(21, 24);
+            this.lbl_sum_in.TabIndex = 19;
+            this.lbl_sum_in.Text = "0";
+            // 
+            // label21
+            // 
+            this.label21.AutoSize = true;
+            this.label21.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label21.Location = new System.Drawing.Point(304, 80);
+            this.label21.Name = "label21";
+            this.label21.Size = new System.Drawing.Size(68, 20);
+            this.label21.TabIndex = 16;
+            this.label21.Text = "Tổng lãi:";
+            // 
+            // label20
+            // 
+            this.label20.AutoSize = true;
+            this.label20.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label20.Location = new System.Drawing.Point(304, 48);
+            this.label20.Name = "label20";
+            this.label20.Size = new System.Drawing.Size(78, 20);
+            this.label20.TabIndex = 17;
+            this.label20.Text = "Tổng vốn:";
+            // 
+            // DAT_DATE
+            // 
+            this.DAT_DATE.DataPropertyName = "DAT_DATE";
+            this.DAT_DATE.HeaderText = "Ngày";
+            this.DAT_DATE.Name = "DAT_DATE";
+            this.DAT_DATE.Width = 57;
+            // 
+            // CHR_NAME
+            // 
+            this.CHR_NAME.DataPropertyName = "CHR_NAME";
+            this.CHR_NAME.HeaderText = "Tên hàng (dịch vụ)";
+            this.CHR_NAME.Name = "CHR_NAME";
+            this.CHR_NAME.Width = 98;
+            // 
+            // CHR_MONEY_IN
+            // 
+            this.CHR_MONEY_IN.DataPropertyName = "CHR_MONEY_IN";
+            this.CHR_MONEY_IN.HeaderText = "Giá nhập";
+            this.CHR_MONEY_IN.Name = "CHR_MONEY_IN";
+            this.CHR_MONEY_IN.Width = 69;
+            // 
+            // CHR_MONEY
+            // 
+            this.CHR_MONEY.DataPropertyName = "CHR_MONEY";
+            dataGridViewCellStyle1.Format = "C0";
+            this.CHR_MONEY.DefaultCellStyle = dataGridViewCellStyle1;
+            this.CHR_MONEY.HeaderText = "Giá bán";
+            this.CHR_MONEY.Name = "CHR_MONEY";
+            this.CHR_MONEY.Width = 64;
+            // 
+            // CHR_CUSTOMER
+            // 
+            this.CHR_CUSTOMER.DataPropertyName = "CHR_CUSTOMER";
+            this.CHR_CUSTOMER.HeaderText = "Khách hàng";
+            this.CHR_CUSTOMER.Name = "CHR_CUSTOMER";
+            this.CHR_CUSTOMER.Width = 83;
+            // 
+            // CHR_CUS_PHONE
+            // 
+            this.CHR_CUS_PHONE.DataPropertyName = "CHR_CUS_PHONE";
+            this.CHR_CUS_PHONE.HeaderText = "SĐT";
+            this.CHR_CUS_PHONE.Name = "CHR_CUS_PHONE";
+            this.CHR_CUS_PHONE.Width = 54;
+            // 
+            // CHR_TYPE
+            // 
+            this.CHR_TYPE.DataPropertyName = "CHR_TYPE";
+            this.CHR_TYPE.HeaderText = "Loại hàng";
+            this.CHR_TYPE.Name = "CHR_TYPE";
+            this.CHR_TYPE.Width = 73;
+            // 
             // frmRevenue
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -211,8 +270,13 @@
         private System.Windows.Forms.DataGridView dataGridView1;
         private System.Windows.Forms.Label lbl_Sum;
         private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label lbl_sum_get;
+        private System.Windows.Forms.Label lbl_sum_in;
+        private System.Windows.Forms.Label label21;
+        private System.Windows.Forms.Label label20;
         private System.Windows.Forms.DataGridViewTextBoxColumn DAT_DATE;
         private System.Windows.Forms.DataGridViewTextBoxColumn CHR_NAME;
+        private System.Windows.Forms.DataGridViewTextBoxColumn CHR_MONEY_IN;
         private System.Windows.Forms.DataGridViewTextBoxColumn CHR_MONEY;
         private System.Windows.Forms.DataGridViewTextBoxColumn CHR_CUSTOMER;
         private System.Windows.Forms.DataGridViewTextBoxColumn CHR_CUS_PHONE;

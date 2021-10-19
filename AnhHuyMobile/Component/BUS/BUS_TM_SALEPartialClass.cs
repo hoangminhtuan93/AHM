@@ -62,6 +62,11 @@ namespace AnhHuyMobile
         {
             return dbConnection.ExecuteDataset("TM_SALE_Select_by_date", dbAssistant.SetvalueParameter(DAT_FROM, "DAT_FROM", DAT_TO, "DAT_TO"));
         }
+        //TM_SALE_SelectBySUM_range_date
+        public DataSet TM_SALE_SelectBySUM_range_date(DateTime DAT_FROM, DateTime DAT_TO)
+        {
+            return dbConnection.ExecuteDataset("TM_SALE_SelectBySUM_range_date", dbAssistant.SetvalueParameter(DAT_FROM, "DAT_FROM", DAT_TO, "DAT_TO"));
+        }
     }
     public partial class DAL_TM_SALE
     {
